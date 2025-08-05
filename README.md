@@ -6,8 +6,7 @@ This project performs an exploratory data analysis (EDA) of sales data using Pyt
 - Python (Jupyter Notebook)
 - Pandas
 - Matplotlib
-- Seaborn
-- NumPy
+
 
 # Dataset
 The dataset includes:
